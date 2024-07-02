@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>IEEE LAUNCHPAD | Newsletter</title>
+<style>
+body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            color: #fff; /* White text */
+            background-color: #000; /* Black background */
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #ffa500; /* Orange headings */
+        }
+</style>
+</head>
+
+
+            <header>
+                <h1>IEEE Launchpad Kerala NewsLetter</h1>
+
+                </header>
+            <section>
+                <p>Welcome to the IEEE LaunchPad Kerala Newsletter! 🎉 We're thrilled to have you join us as we embark on a journey of innovation, collaboration, and growth. Launchpad Kerala 2024 is a premier job fair that brings together talented individuals and innovative companies in the technical and engineering fields. This collaboration between IEEE Kerala Section and GTech MuLearn aims to create meaningful connections that 
+                    drive progress and innovation in Kerala's job market. LaunchPad Kerala 2024 is your gateway to success in the tech and engineering sectors. This premier job fair, co-organized by the IEEE Kerala Section and GTech MuLearn, connects you with top companies and bright minds, fostering an environment that fuels Kerala's innovation engine.</p>
+                <h2>Call to Action</h2>
+                <p>
+                    Are you a passionate engineer or tech enthusiast brimming with talent? Do you crave a dynamic platform to showcase your skills and connect with industry leaders who share your vision? Look no further than LaunchPad Kerala!
+                    This premier job fair bridges the gap between aspiring minds and groundbreaking companies.</p>
+
+                <h2>Event RoadMap</h2>
+                <p>Here goes the roadmap!:</p>
+                <ul>
+                    <li> Register at the official Launchpad website </li>
+                    <li> Join the communityt</li>
+                    <li> Technical Challenges</li>
+                    <li> Online Aptitude test</li>
+                    <li> Consolidated Final Rank list </li>
+                    <li> Interview </li>
+                </ul>
+              
+                <p>Join us on this exciting journey and  dive into the world of innovation with IEEE Launch Pad Kerala!</p>
+                <a href="https://launchpadkerala.org"><button>Register Here</button></a>
+            </section>
+            <footer>
+                <p>© 2024 IEEE LaunchPad Kerala. All rights reserved.</p>
+            </footer>
+
+    </body>
+</html>
+
+
+
+ 
